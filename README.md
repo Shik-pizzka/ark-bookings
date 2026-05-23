@@ -24,8 +24,6 @@
 
 Требования:
 
-- Node.js 20 LTS или новее.
-- npm 10 или новее.
 
 ```bash
 npm install
@@ -41,4 +39,4 @@ npm run build
 
 ## Деплой
 
-Ссылка на приложение: добавить после публикации.
+https://shik-pizzka.github.io/ark-bookings/
